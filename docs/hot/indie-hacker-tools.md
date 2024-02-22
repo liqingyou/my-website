@@ -1,3 +1,7 @@
+---
+title: 出海第一步，搞定技术栈。
+---
+
 出海第一步，搞定技术栈。
 
 本仓库只收录独立开发者出海技术栈和工具，持续整理中……
@@ -7,8 +11,6 @@
 - 帮助独立开发者提升开发效率
 - 帮助独立开发者降低成本
 - 市场上足够流行
-
-欢迎提 pr 和 issues 更新。
 
 ## Web 开发模板
 
@@ -63,109 +65,3 @@
 | --- | --- |
 | [Tailwind CSS](https://tailwindcss.com/)🌟 | |
 | [Shadcn/ui](https://ui.shadcn.com/)🌟 |  |
-
-### 登录鉴权
-
-| 技术栈 | 备注 |
-| --- | --- |
-| [Clerk](https://clerk.com/)🌟 | |
-| [Supabase](https://supabase.com/) |  PostgreSQL数据库、文件存储、登录鉴权 |
-| [Next-Auth v4](https://next-auth.js.org/) | |
-| [Next-Auth v5](https://authjs.dev/getting-started/introduction) | v5 配置和 v4 不同，请注意区分<br> [v5 Demo](https://github.com/AntonioErdeljac/next-auth-v5-advanced-guide) |
-
-### 支付
-
-| 技术栈 | 备注 |
-| --- | --- |
-| [Lemon Squeezy](https://www.lemonsqueezy.com/)🌟 |  支持个人香港卡、虚拟卡，国内开发者首选 |
-| [Stripe](https://stripe.com/) | 需要企业资质  |
-
-### 邮件
-
-| 技术栈 | 备注 |
-| --- | --- |
-| [Resend](https://resend.com/) |   |
-| [Nodemailer](https://github.com/nodemailer/nodemailer) |  |
-| [React Mail](https://react.email/) |  |
-
-### 网站分析
-
-| 平台 | 备注 |
-| --- | --- |
-| [Google Analytics](https://analytics.google.com/analytics/web/) | |
-| [Plausible]( https://plausible.io) | |
-| [Umami](https://umami.is/)| 开源可自部署 |
-
-### 在线客服
-
-| 技术栈 | 备注 |
-| --- | --- |
-| [Tawk](https://tawk.to/) | 中国地区可注册  |
-
-### 部署与托管
-
-| 平台 | 备注 |
-| --- | --- |
-| [Vercel](https://vercel.com/dashboard)🌟 | 首选 |
-| [Aircode](https://aircode.io/) | 字节跳动出品 |
-| [Zeabur](https://zeabur.com/) | 国内出海团队出品 |
-| [Railway](https://railway.app/) |  |
-| [Netlify](https://www.netlify.com/) | |
-| [Github Pages](https://pages.github.com/) | |
-| [Cloudflare Pages](https://developers.cloudflare.com/pages/) | |
-
-### 域名购买
-
-| 平台 | 备注 |
-| --- | --- |
-| [Namesilo](https://www.namesilo.com/)🌟 | 自动屏蔽whois |
-| [Namecheap](https://www.namecheap.com/) | 据说比较便宜 |
-| [Godaddy](https://www.godaddy.com/) | 狗爹，懂的都懂 |
-| [阿里云](https://wanwang.aliyun.com/domain) <br>  [腾讯云](https://cloud.tencent.com/act/pro/domain-sale) <br> [字节火山引擎](https://www.volcengine.com/product/domain-service)| 国内平台，cn域名首选平台 |
-| [Cloudflare](https://cloudflare.com/) | |
-
-### 文档管理
-
-| 平台 | 备注 |
-| --- | --- |
-| [Notion](https://notion.so/) |  |
-
-### logo
-| 平台 | 备注 |
-| --- | --- |
-| [iconbuddy](https://iconbuddy.app/logo-maker) |  logo 设计 |
-| [iconray](https://icon.ray.so/) |  logo 设计 |
-| [icon horse](https://icon.horse/) |  logo 探测 |
-| [favicon generator](https://realfavicongenerator.net/) |  生成多平台多种类logo(ico、PNG、SVG) |
-| [比特虫](https://www.bitbug.net/) |  PNG/JPG 转 ico |
-
-
-### 图标库
-| 平台 | 备注 |
-| --- | --- |
-| [iconbuddy](https://iconbuddy.app/) | |
-| [fontawesome](https://fontawesome.com/icons) | |
-| [MingCute](https://www.mingcute.com/) | |
-
-
-### 图片视频处理工具
-| 平台 | 备注 |
-| --- | --- |
-| [Tinypng](https://tinypng.com/) | 图片压缩 |
-| [Tinify](https://tinify.cn/) | 图片压缩 - 国内版 |
-| [video-to-gif](https://ezgif.com/video-to-gif) | 视频转 GIF|
-
-
-### 录屏
-| 平台 | 备注 |
-| --- | --- |
-| [focusee](https://gemoo.com/focusee/) | |
-| [Screen Studio](https://www.screen.studio) | |
-
-
-### 短链
-| 平台 | 备注 |
-| --- | --- |
-| [dub](https://github.com/dubinc/dub) | 免费用户每个月可以创建25个链接 |
-
-> 来源: https://github.com/weijunext/indie-hacker-tools/blob/main/README.md
