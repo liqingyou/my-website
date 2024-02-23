@@ -1,3 +1,8 @@
+---
+title: ubuntu 安装 docker 和 docker-compose
+description: ubuntu 安装 docker 和 docker-compose
+---
+
 更新工具
 ```
 sudo apt-get update
