@@ -1,13 +1,13 @@
 ---
-slug: SirTunnel 教程
-title: 一个开源软件，只需要50行代码，就能建立一条隧道，将你的内网电脑可以被公网访问，这里有一篇教程。
+slug: SirTunnel-Tutorial
+title: SirTunnel 教程
 authors:
   name: Tony Garnock-Jones
-  title: Tony Garnock-Jones
   url: https://leastfixedpoint.com/tonyg/
-  image_url: https://leastfixedpoint.com/style/y-combinator-core-circled-250.pngv=4
 tags: [web]
 ---
+
+一个开源软件，只需要50行代码，就能建立一条隧道，将你的内网电脑可以被公网访问，这里有一篇教程。
 
 https://eighty-twenty.org/2023/01/27/sirtunnel-personal-ngrok
 
