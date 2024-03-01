@@ -1,5 +1,6 @@
 ---
 title: MongoDB Docker 部署
+description: MongoDB Docker 部署 设置密码
 ---
 
 ### 拉取镜像
@@ -10,6 +11,8 @@ sudo docker pull mongo:4.0.4
 ### 启动容器
 ```
 sudo docker run -p 27017:27017 -v ~/mongodb/data:/data/db --name docker_mongodb -d mongo:4.0.4
+
+添加 --auth 链接需要验证
 ```
 
 ## 设置密码
@@ -28,5 +31,5 @@ mongodb://用户名:密码@db:27017/api-mock?authSource=admin
 url中特殊符号需要转义
 ```
 
-#### 参考地址
+### 参考地址
 https://tsejx.github.io/devops-guidebook/deploy/docker/mongodb/
